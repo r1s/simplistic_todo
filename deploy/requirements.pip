@@ -1,0 +1,4 @@
+Beaker==1.6.5.post1
+WebTest==2.0.18
+bottle==0.12.8
+peewee==2.5.1
